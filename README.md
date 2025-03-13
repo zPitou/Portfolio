@@ -15,6 +15,6 @@ Olá, Bem vindo ao meu projeto de portfólio.
 
 ## Feito por:
 
-### zPitou
+### Nicolas
 
 
