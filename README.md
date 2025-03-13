@@ -16,5 +16,6 @@ Olá, Bem vindo ao meu projeto de portfólio.
 ## Feito por:
 
 ### Nicolas
+LinkedIn: https://www.linkedin.com/in/nicolas-arag%C3%A3o-gon%C3%A7alves/
 
 
